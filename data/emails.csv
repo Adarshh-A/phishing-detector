@@ -1,0 +1,7 @@
+text,label
+"URGENT! Verify your bank account now http://fakebank.com",phishing
+"Your Amazon order has shipped",safe
+"Click here to reset your password",phishing
+"Meeting scheduled tomorrow at 10AM",safe
+"Your account will be suspended unless you login",phishing
+"Project report attached for review",safe
